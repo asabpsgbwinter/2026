@@ -10,5 +10,7 @@ Registration and attendance is free of charge, but the venue has a limited capac
 
 The form below also allows you to submit talk and poster abstracts. **The deadline for talk and poster abstract submission is Friday August 29th!**
 
+Questions? Email us on asabwinter2025@gmail.com
+
 ## [Register Here](https://docs.google.com/forms/d/e/1FAIpQLSestIAG2em9FRJTnkUzIB1rXfsF_nT5VwATKlNpMmBwxJRv6g/viewform)
 
