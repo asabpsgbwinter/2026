@@ -1,12 +1,10 @@
 ---
-title: "Schedule"
+title: "Preliminary Talk schedule"
 permalink: /schedule/
 layout: single
 author_profile: true
 share: true
 ---
-
-# Preliminary Talk schedule
 
 ## Monday 15th of December
 
