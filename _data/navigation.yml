@@ -2,10 +2,6 @@ main:
   - title: "Home"
     url: /about/
 
-# uncomment while registration is open
-#  - title: "Registration"
-#    url: /registration/
-
   - title: "Schedule"
     url: /schedule/
 
@@ -21,6 +17,8 @@ main:
   - title: "Code of Conduct"
     url: /code/    
 
+  - title: "Registration"
+    url: /registration/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
