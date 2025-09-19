@@ -10,7 +10,7 @@ share: true
 
 | Time |  |
 | ----- | ----- |
-| 9:00 | Arrival & poster setup |
+| 9:00 | Registration & poster setup |
 | 9:20 | Welcome |
 | 9:30 | Public lecture |
 | 10:15 | Talks x3 |
@@ -29,6 +29,7 @@ share: true
 
 | Time |  |
 | ----- | ----- |
+| 9:00 | Registration |
 | 9:30 | Tinbergen lecture |
 | 10:30 | Tea/coffee |
 | 11:00 | ASAB Medal |
