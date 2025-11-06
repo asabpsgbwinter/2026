@@ -12,4 +12,6 @@ The meeting will be held in the **Royal College of Physicians of Edinburgh**, se
 
 ## Virtual Attendance and Hublets
 
-The meeting can also be attended virtually, for example by joining one of this year's [Conference Hublets](https://www.asab.org/conference-hublets). If you are interested in setting up a hublet, or virtual attendance, please register in order to receive joining instructions. 
+The meeting can also be attended virtually, for example by joining one of this year's Conference Hublets ([hublet info](https://www.asab.org/conference-hublets)).
+
+We will be running hublets in **Berlin**, **Prague**, and **Santiniketan, India**. If you would like to join one of these hublets please email [meetings@asab.org](meetings@asab.org)
