@@ -12,7 +12,7 @@ share: true
 | ----- | ----- | ----- |
 | _9:00_ | _Registration & poster setup_ |  |
 | 9:20 | Welcome |  |
-| **9:30** | **Public lecture: Innes Cuthill** | Animal camouflage: evolutionary biology meets neuroscience, art and war |
+| **9:30** | **Public lecture: Innes Cuthill** | [Animal camouflage: evolutionary biology meets neuroscience, art and war](https://asabwinter.github.io/2025/plenaries/Innes_Cuthill/) |
 | 10:15 | Melissa Hargreaves | Small but mighty: Binocular vision facilitates the attacks of New Zealand mantis shrimp |
 | 10:30 | Jiaqi Wang | Exploring lemur and human enrichment through smell, sound, and sight |
 | 10:45 | Will Allen | Sensory decisions at a global scale: effects on crypsis and warning colouration as antipredator strategies |
@@ -22,7 +22,7 @@ share: true
 | 12:30 | Satyam Gupta | A song to die for: Acoustic eavesdropping by mosquitoes on anuran calls in Western Ghats, India |
 | 12:45 | Cynthia Bom | Ultrasonic serenades |
 | _13:00_ | _AGM, Lunch & posters_ | _Poster session 1 continued_ |
-| **14:30** | **Plenary 1: Amanda Melin** | Multimodal foraging in wild sympatric primates |
+| **14:30** | **Plenary 1: Amanda Melin** | [Multimodal foraging in wild sympatric primates](https://asabwinter.github.io/2025/plenaries/Amanda_Melin/) |
 | 15:15 | Daniel Hanley | Novel approaches for recording animal-view videos |
 | 15:30 | Rachel Parkinson | Taste coding and feeding microstructure in bumblebee nectar perception |
 | _15:45_ | _Posters, tea & coffee_ | _Poster session 1 continued_ |
@@ -38,10 +38,10 @@ share: true
 | Time |  |  |
 | ----- | ----- | ----- |
 | 9:00 | Registration | |
-| **9:30** | **Tinbergen lecture: Toshitaka Suzuki** | Animal linguistics |
+| **9:30** | **Tinbergen lecture: Toshitaka Suzuki** | [Animal linguistics](https://asabwinter.github.io/2025/plenaries/Toshitaka_Suzuki/) |
 | _10:30_ | _Tea & coffee_ | |
 | **11:00** | **ASAB Medal presentation: Hanna Kokko** | |
-| **11:15** | **Plenary 2: Barbara Caspers** | Family affairs - the impact of chemical cues on bird social communication |
+| **11:15** | **Plenary 2: Barbara Caspers** | [Family affairs - the impact of chemical cues on bird social communication](https://asabwinter.github.io/2025/plenaries/Barbara_Caspers/) |
 | 12:00 | Matthew Sparks | Characterisation and manipulation of urban light environments for fly control |
 | 12:15 | Steve Portugal | The effects of H5N1 avian influenza on visual fields in northern gannets and implications for foraging |
 | 12:30 | Aruna Raman | Moving to perceive vs moving to achieve: trade-offs in insect pollinator flower approaches |
