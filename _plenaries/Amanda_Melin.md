@@ -10,5 +10,8 @@ layout: single
 
 **Amanda D. Melin** is a Professor of Biological Anthropology and a Canada Research Chair in dietary ecology and genomics at the University of Calgary. She unites behavioural and ecological study of animals in wild contexts with new and emerging methods in the ‘omics (genomics, proteomics, metabolomics, microbiome) to study sensory systems, digestion and health of mammals, including humans. Broadly speaking she seeks to understand how animals find, assess and digest foods, and how changing environments affect animal diets, microbiomes, and parasites. She is also actively researching the genetic basis and 'omic correlates of age-related visual diseases, such as glaucoma. 
 
+## Plenary abstract
+As the interface between animals and their environments, senses are critical for guiding food selection behaviours. However, sensory ecology research on wild mammals is sparse, limiting our understanding of forces shaping their fruit selection behaviours under natural conditions. Here, I discuss my research over the past 2 decades studying food assessment by three sympatric Costa Rican primates (Alouatta palliata, Ateles geoffroyi and Cebus imitator). I discuss insights into how variation in fruit traits, as well as primate dietary and sensory variation, shape foraging behaviours. Together this research seeks to improve understanding of sensory system evolution and plant-frugivore interactions.
+
 
 [Amanda's Website](https://www.amandamelin.com/)
