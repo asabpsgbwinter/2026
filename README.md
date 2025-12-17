@@ -12,5 +12,6 @@ This site can read and format content using markdown files, so you can probably 
 - Adjust the menu bar by editing _data/navigation.yml
 - Replace the banner image with your own in images/header-bg.jpg (800px by ~184 pixels)
 - Other main site settings are found in _config.yml
+- Activate the website by going **settings > pages >** and select '**main**' under **branch**, and it will make the site live (wait a minute for it to build)
 
 Feel free to contact me: J dot Troscianko at exeter dot ac dot uk
