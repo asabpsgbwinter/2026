@@ -1,5 +1,5 @@
 ---
-title: "Winter ASAB"
+title: "Joint Winter Conference of ASAB and PSGB"
 permalink: /
 layout: single
 author_profile: true
