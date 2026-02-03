@@ -1,7 +1,7 @@
 
 ---
 title: "Lucy Aplin"
-excerpt: "Australian National University / SERI Professorial Fellow, Zurich University <br/><img src='/2026/images/Lucy_Aplin.jpeg' width='250'>"
+excerpt: "Australian National University / SERI Professorial Fellow, Zurich University <br/><img src='/2026/images/Lucy_Aplin.jpeg' width='150'>"
 layout: single
 ---
 
