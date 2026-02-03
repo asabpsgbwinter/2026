@@ -22,7 +22,7 @@ Their principal contributions will lie in reviewing anonymised abstract submissi
 
 |  | Location | Study Species |
 | ----- | ----- | ----- |
-| Filipa Abrea | Germany | Apes |
+| Filipa Abreu | Germany | Apes |
 | Thomas Bugnyar | Austria | Birds, Primates |
 | Doree Fragaszy | USA | Primates |
 | Elliot Howard-Spink | Switzerland | Apes |
