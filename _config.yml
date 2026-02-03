@@ -23,12 +23,12 @@ repository               : "https://asabwinter.github.io/2026/"
 author:
   # Biographic information
   avatar           : "Winterlogo2026.png"
-  name             : "ASAB Winter Conference 2026: Social Learning and Culture"
+  name             : "ASAB and PSGB Winter Conference 2026: Social Learning and Culture"
   pronouns         : # example: "she/her"  
   bio              : "ASAB 8th-9th / PSGB 10th December 2026, Edinburgh"
   location         : #"Edinburgh"
   employer         : #"Red Brick University"
-  uri              : "https://www.asab.org/"
+  uri              : # "https://www.asab.org/"
   email            : #"none@example.org" 
 
   # Academic websites
