@@ -8,8 +8,8 @@ main:
   - title: "Plenary Speakers"
     url: /plenaries/
 
-  - title: "Venue"
-    url: /venue/
+#  - title: "Venue"
+#    url: /venue/
     
   - title: "Organisers"
     url: /organisers/
