@@ -14,8 +14,8 @@ main:
   - title: "Organisers"
     url: /organisers/
 
-  - title: "Code of Conduct"
-    url: /code/    
+#  - title: "Code of Conduct"
+#    url: /code/    
 
 #  - title: "Registration"
 #    url: /registration/
