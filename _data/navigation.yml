@@ -2,8 +2,8 @@ main:
   - title: "Home"
     url: /about/
 
-  - title: "Schedule"
-    url: /schedule/
+#  - title: "Schedule"
+#    url: /schedule/
 
   - title: "Plenary Speakers"
     url: /plenaries/
@@ -17,8 +17,8 @@ main:
   - title: "Code of Conduct"
     url: /code/    
 
-  - title: "Registration"
-    url: /registration/
+#  - title: "Registration"
+#    url: /registration/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
