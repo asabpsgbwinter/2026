@@ -8,10 +8,7 @@ layout: single
 <img src="/2026/images/Edwin_van_Leeuwen.jpg" width="250"/>
 
 
-**Amanda D. Melin** is a Professor of Biological Anthropology and a Canada Research Chair in dietary ecology and genomics at the University of Calgary. She unites behavioural and ecological study of animals in wild contexts with new and emerging methods in the ‘omics (genomics, proteomics, metabolomics, microbiome) to study sensory systems, digestion and health of mammals, including humans. Broadly speaking she seeks to understand how animals find, assess and digest foods, and how changing environments affect animal diets, microbiomes, and parasites. She is also actively researching the genetic basis and 'omic correlates of age-related visual diseases, such as glaucoma. 
+**Edwin van Leeuwen** is an Assistant Professor at Utrecht University. His research aims to chart and understand intraspecific variation in the social structures of primates' group life. Specifically, he studies cultural differences in great apes' sociality, and their impact on expressions of behaviour that bear relevance to survival and ultimately fitness (like cooperation and social learning).
 
-## Plenary: Multimodal foraging in wild sympatric primates
-As the interface between animals and their environments, senses are critical for guiding food selection behaviours. However, sensory ecology research on wild mammals is sparse, limiting our understanding of forces shaping their fruit selection behaviours under natural conditions. Here, I discuss my research over the past 2 decades studying food assessment by three sympatric Costa Rican primates (Alouatta palliata, Ateles geoffroyi and Cebus imitator). I discuss insights into how variation in fruit traits, as well as primate dietary and sensory variation, shape foraging behaviours. Together this research seeks to improve understanding of sensory system evolution and plant-frugivore interactions.
+## Plenary title and abstract to come
 
-
-[Amanda's Website](https://www.amandamelin.com/)
