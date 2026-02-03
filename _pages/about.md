@@ -8,16 +8,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Theme for 2026: Social Learning and Culture
+## "Social Learning and Culture"
 
 ### Venue: Edinburgh
-### Date: ASAB 8-9th / PSGB 10th December 2026
+### Date: ASAB 8th-9th / PSGB 10th December 2026
 ### Registration opening soon
 ----
+Social learning is learning from others. The larger phenomenon of culture is identified when a group or population shares a behaviour because it is transmitted between individuals through social learning. Thus, social learning is necessary for culture, but does not equate to it.
 
-What is it like to be a bat? The conclusion in Thomas Nagel’s famous philosophical discourse was that we probably can never know. However, as animal behaviourists, it is imperative that we both understand the sensory world of other species and incorporate that knowledge in our studies of behaviour. Behaviour is how animals interact with their environment and the senses provide the information necessary for decision-making. Furthermore, in a rapidly changing world, human sounds, light, smells and magnetic fields swamp sensory systems and decision-making processes that evolved under different conditions, leading to maladaptive behaviour. 
+Just a few decades ago, culture was said to be uniquely human, but that assumption was progressively eroded in the twentieth century, with the present century seeing an explosion of research on the topic. A burgeoning literature has revealed social learning and culture in a diversity of birds, mammals, reptiles, fish and insects, spanning a host of types of behaviour. Examples are emerging across a growing variety of behavioural domains including foraging techniques, migratory patterns, tool use, mate choice, vocal repertoires, breeding site preferences, nest making and courtship overtures. Our evolutionary perspectives on behaviour are hence accommodating to the many implications of the discovery of this pervasive ‘second inheritance system’ in many animals’ lives. 
 
-This year’s ASAB Winter meeting explores how sensory information shapes animal behaviour across species and environments. We invite submissions on any topic within this general theme, pure or applied, and including technological solutions to the challenges of understanding non-human sensory experience. The meeting is free, but the venue’s capacity is limited and so **registration is essential**. 
+In London in 2015, a first Joint Winter Conference of ASAB and PSGB on the topic of Social Learning and Culture proved highly popular and was judged a great success. Since then, the topic has continued to accelerate in the quality and reach of its findings, accompanied by a recognition of their potential in supporting conservation efforts and animal welfare. We judged the time is ripe for a further joint conference, covering the latest research efforts so active in both societies.  
 
-For those presenting posters, we suggest a size of A0 (841x1189mm) in portrait orientation.
 <img src="/2025/images/animal-montage.jpg"/>
