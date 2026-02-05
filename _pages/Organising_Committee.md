@@ -14,6 +14,11 @@ Prof Sue Healy, Biology, University of St Andrews
 ## Lead Website Manager
 Dr Rachel Harrison, Anthropology, Durham University
 
+## ASAB and PSGB representatives
+ASAB Conference Officer -  Vivek Vityananda
+
+PSGB Conference Officer – Alexander Georgiev
+
 ## Organising Committee
 The Organising Committee is composed of volunteers representing a diversity of study species and parts of the world.
 
