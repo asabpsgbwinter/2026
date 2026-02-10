@@ -8,6 +8,6 @@ layout: single
 <img src="/2026/images/caroline_and_illustration.png" height="200"/>
 
 
-**Caroline Schuppli is an Evolutionary Biologist broadly interested in the evolution and development of cognition. Her main research focus lies on the development of cognitive performance, ecological skills, and cultural repertoires in immature wild orangutans.
+**Caroline Schuppli** is an Evolutionary Biologist broadly interested in the evolution and development of cognition. Her main research focus lies on the development of cognitive performance, ecological skills, and cultural repertoires in immature wild orangutans.
 
 ## Plenary title and abstract to come
