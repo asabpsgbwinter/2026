@@ -1,6 +1,6 @@
 ---
 title: "Edwin van Leeuwen"
-excerpt: "Utrecht University <br/><img src='/2026/images/edandjulie.png' width='250'>"
+excerpt: "<img src='/2026/images/edandjulie.png' width='300'><br/>Utrecht University"
 layout: single
 ---
 
