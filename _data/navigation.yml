@@ -17,7 +17,7 @@ main:
 #  - title: "Code of Conduct"
 #    url: /code/    
 
- - title: "Registration"
+  - title: "Registration"
     url: /registration/
         
 #  - title: "Blog Posts"
