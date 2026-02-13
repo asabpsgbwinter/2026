@@ -1,6 +1,6 @@
 ---
 title: "Caroline Schuppli"
-excerpt: "Max Planck Institute of Animal Behavior and the International Max Planck Research School for Quantitative Behaviour Ecology and Evolution <br/><img src='/2026/images/caroandorang.png' width='250'>"
+excerpt: "<img src='/2026/images/caroandorang.png' width='300'><br/>Max Planck Institute of Animal Behavior and the IMPRS for Quantitative Behaviour Ecology and Evolution"
 layout: single
 ---
 
