@@ -20,4 +20,4 @@ Just a few decades ago, culture was said to be uniquely human, but that assumpti
 
 In London in 2015, a first Joint Winter Conference of ASAB and PSGB on the topic of Social Learning and Culture proved highly popular and was judged a great success. Since then, the topic has continued to accelerate in the quality and reach of its findings, accompanied by a recognition of their potential in supporting conservation efforts and animal welfare. We judged the time is ripe for a further joint conference, covering the latest research efforts so active in both societies.  
 
-<img src="/2026/images/soclearningmontage1.png"/>
+<img src="/2026/images/animalbanner.png"/>
