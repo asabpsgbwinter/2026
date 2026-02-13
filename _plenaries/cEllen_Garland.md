@@ -1,6 +1,6 @@
 ---
 title: "Ellen Garland"
-excerpt: "<img src='/2026/images/ellenandwhale.png' width='250'><br/>University of St Andrews"
+excerpt: "<img src='/2026/images/ellenandwhale.png' width='300'><br/>University of St Andrews"
 layout: single
 ---
 
