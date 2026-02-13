@@ -1,6 +1,6 @@
 ---
 title: "Lucy Aplin"
-excerpt: "Australian National University and University of Zurich <br/><img src='/2026/images/lucyandcockatoo.png' width='250'>"
+excerpt: "<img src='/2026/images/lucyandcockatoo.png' width='300'><br/>Australian National University and University of Zurich"
 layout: single
 ---
 <img src="/2026/images/lucyandcockatoo.png" height="200"/>
