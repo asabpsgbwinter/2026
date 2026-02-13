@@ -1,6 +1,6 @@
 ---
 title: "Lars Chittka"
-excerpt: "Queen Mary College, University of London <br/><img src='/2026/images/larsandbee.png' width='250'>"
+excerpt: "<img src='/2026/images/larsandbee.png' width='300'><br/>Queen Mary College, University of London"
 layout: single
 ---
 
