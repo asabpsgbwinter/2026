@@ -7,15 +7,15 @@ share: true
 ---
 
 ## Lead Organisers
-Prof Andy Whiten, Psychology and Neuroscience, University of St Andrews
+Andy Whiten, Psychology and Neuroscience, University of St Andrews
 
-Prof Sue Healy, Biology, University of St Andrews
+Sue Healy, Biology, University of St Andrews
 
 ## Lead Website Manager
-Dr Rachel Harrison, Anthropology, Durham University
+Rachel Harrison, Anthropology, Durham University
 
 ## ASAB and PSGB representatives
-ASAB Conference Officer -  Vivek Vityananda
+ASAB Meetings Secretary -  Vivek Vityananda
 
 PSGB Conference Officer – Alexander Georgiev
 
