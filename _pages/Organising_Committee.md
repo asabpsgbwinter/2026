@@ -17,7 +17,7 @@ Rachel Harrison, Anthropology, Durham University
 ## ASAB and PSGB representatives
 ASAB Meetings Secretary -  Vivek Vityananda
 
-PSGB Conference Officer – Alexander Georgiev
+PSGB Meetings Officer – Alexander Georgiev
 
 ## Organising Committee
 The Organising Committee is composed of volunteers representing a diversity of study species and parts of the world.
