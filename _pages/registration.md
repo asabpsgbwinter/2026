@@ -14,7 +14,8 @@ The conference venue has limited capacity so early registration will be essentia
 
 It will be possible to register for all three days of the meeting (this is recommended) or for the ASAB days or PSGB day alone. Note that a registration fee will be required to attend the PSGB conference day on the 10th of December.
 
-You can also attend the conference virtually, and we encourage anyone interested in hosting a local 'conference hublet' to contact the ASAB Meeting Secretary, Vivek Nityananda, for more information at meetings@asab.org.
+You can also attend the conference virtually, and we encourage anyone interested in hosting a local 
+<a href="https://www.asab.org/conference-hublets">conference hublet</a> to contact the ASAB Meeting Secretary, Vivek Nityananda, for more information at meetings@asab.org.
 
 Questions? Email us on asabpsgb2026@gmail.com
 
