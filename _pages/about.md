@@ -12,7 +12,6 @@ redirect_from:
 
 ### Venue: Edinburgh
 ### Date: ASAB 8th-9th / PSGB 10th December 2026
-### Information regarding registration and abstract submission to follow
 ----
 Social learning is learning from others. The larger phenomenon of culture is identified when a group or population shares a behaviour because it is transmitted between individuals through social learning. Thus, social learning is necessary for culture, but does not equate to it.
 
