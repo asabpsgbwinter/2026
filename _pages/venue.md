@@ -5,6 +5,8 @@ layout: single
 author_profile: true
 ---
 
+<img src="/2026/images/venue photos.png"/>
+
 The meeting will be held in the **Royal College of Physicians of Edinburgh**, see map below. As the venue has limited capacity, will be essential that you register when registration opens. Conveniently located a mere five-minute walk from Edinburgh Waverley train station, the venue finds itself in the very heart of this vibrant and historic city. There are plenty of places to eat, drink, and visit nearby. A list of accommodation close to the venue can be dowloaded [here](/2025/files/rcpe_hotels.pdf). 
 
 
