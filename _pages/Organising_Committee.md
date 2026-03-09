@@ -39,3 +39,4 @@ Their principal contributions will lie in reviewing anonymised abstract submissi
 | Sarah Salphati | UK | Apes including humans |
 | Francys Subiaul | USA | Primates including children |
 | Noa Truskanov | UK, Israel | Fish, Birds |
+| Alex Thornton | UK | Birds, Humans |
