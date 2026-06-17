@@ -17,12 +17,12 @@ It will be possible to register for all three days of the meeting (this is recom
 The registration fee structure will be as follows:
 
 PSGB members:
-Student member = £35
-Full/associate member = £65
+  Student member = £35
+  Full/associate member = £65
 
 Non-members:
-Student = £55
-Non-student = £100
+  Student = £55
+  Non-student = £100
 
 (PSGB Membership costs: £15/£30)
 
