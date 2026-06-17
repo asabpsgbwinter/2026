@@ -15,9 +15,11 @@ The conference venue has limited capacity so early registration will be essentia
 It will be possible to register for all three days of the meeting (this is recommended) or for the ASAB days or PSGB day alone. Note that a registration fee will be required to attend the PSGB conference day on the 10th of December.
 
 The registration fee structure will be as follows:
+
 PSGB members:
 Student member = £35
 Full/associate member = £65
+
 Non-members:
 Student = £55
 Non-student = £100
