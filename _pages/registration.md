@@ -6,7 +6,9 @@ author_profile: true
 share: true
 ---
 
-## Registration and abstract submission will open on July 1st, 2026. ##
+## Registration (open July 1st - August 15th, or until venue capacity is reached): https://forms.gle/bAQamzeYCMj891sQ7##
+
+## Abstract submission (open July 1st - August 15th): https://forms.gle/wr4mcmV3FhfG41vt7 ##
 
 Both conference registration  and abstract submission will open on the 1st of July. Abstract submission will close on the 15th of August. Registration will close when the venue capacity is reached.
 
@@ -21,10 +23,12 @@ PSGB members:\
   Full/associate member = £65
 
 Non-members:\
-  Student = £55\
+  Student = £65\
   Non-student = £100
 
 (PSGB Membership costs: £15/£30)
+
+Link for registration payment: https://www.psgb.org/events/psgb-meeting-in-edinburgh-2026-day-3-of-joint-asab-psgb-meeting
 
 You can also attend the conference virtually, and we encourage anyone interested in hosting a local 
 <a href="https://www.asab.org/conference-hublets">conference hublet</a> to contact the ASAB Meeting Secretary, Vivek Nityananda, for more information at meetings@asab.org.
