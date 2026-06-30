@@ -8,7 +8,7 @@ share: true
 
 ### Registration (open July 1st - August 15th, or until venue capacity is reached): [[register here]([url](https://docs.google.com/forms/d/e/1FAIpQLScQdbvscxbyvevDmi9bodDNU4DkyH7u1PsQRJwsE3Tmm2gMnw/viewform?usp=header))] ###
 
-### Abstract submission (open July 1st - August 15th): [submit your abstract here](https://forms.gle/wr4mcmV3FhfG41vt7) ###
+### Abstract submission (open July 1st - August 15th): [[submit your abstract here]([url](https://forms.gle/wr4mcmV3FhfG41vt7))] ###
 
 Both conference registration  and abstract submission will open on the 1st of July. Abstract submission will close on the 15th of August. Registration will close when the venue capacity is reached.
 
