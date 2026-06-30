@@ -28,7 +28,7 @@ Non-members:\
 
 (PSGB Membership costs: £15/£30)
 
-Link for registration payment: https://www.psgb.org/events/psgb-meeting-in-edinburgh-2026-day-3-of-joint-asab-psgb-meeting
+Link for registration payment: <a href="https://www.psgb.org/events/psgb-meeting-in-edinburgh-2026-day-3-of-joint-asab-psgb-meeting">PSGB payment link</a>  
 
 You can also attend the conference virtually, and we encourage anyone interested in hosting a local 
 <a href="https://www.asab.org/conference-hublets">conference hublet</a> to contact the ASAB Meeting Secretary, Vivek Nityananda, for more information at meetings@asab.org.
