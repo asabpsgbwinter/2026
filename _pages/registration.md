@@ -6,7 +6,7 @@ author_profile: true
 share: true
 ---
 
-### Registration (open July 1st - August 15th, or until venue capacity is reached): [register here](https://forms.gle/bAQamzeYCMj891sQ7) ###
+### Registration (open July 1st - August 15th, or until venue capacity is reached): [[register here]([url](https://docs.google.com/forms/d/e/1FAIpQLScQdbvscxbyvevDmi9bodDNU4DkyH7u1PsQRJwsE3Tmm2gMnw/viewform?usp=header))] ###
 
 ### Abstract submission (open July 1st - August 15th): [submit your abstract here](https://forms.gle/wr4mcmV3FhfG41vt7) ###
 
