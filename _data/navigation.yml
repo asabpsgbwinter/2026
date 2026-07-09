@@ -19,6 +19,9 @@ main:
 
   - title: "Registration"
     url: /registration/
+ 
+  - title: "Local Hublets"
+    url: /hublets/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
