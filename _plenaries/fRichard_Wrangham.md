@@ -1,5 +1,5 @@
 ---
-title: "Richard Wrangham"
+title: "Richard Wrangham - Osman Hill Medal and Lecture"
 excerpt: "<img src='/2026/images/richard_and_kibale_logo.png' width='300'><br/>Harvard University"
 layout: single
 ---
