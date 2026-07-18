@@ -5,6 +5,8 @@ layout: single
 author_profile: true
 share: true
 ---
+### Note that venue capacity has now been reached for the first two days of the conference. Registration remains open for the third day (10th December) and you can use the registration form below to sign up for a waiting list to attend the 8th and 9th ###
+
 
 ### Registration (open July 1st - August 15th, or until venue capacity is reached): <a href="https://forms.gle/nupbsiwP8RC9EhfT6">register here</a>  ###
 
