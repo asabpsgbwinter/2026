@@ -5,14 +5,8 @@ layout: single
 author_profile: true
 share: true
 ---
-### Note that venue capacity has now been reached for the first two days of the conference. Registration remains open for the third day (10th of December, PSGB conference day) and you can use the registration form below to sign up for a waiting list to attend the first two days (the 8th and 9th). ###
+### Registration and abstract submission closed on 15th August 2026. We will email all registrants in due course to re-confirm their in-person attendance. After this, any spare places will be offered to individuals on the waitlist.
 
-
-### Registration (open July 1st - August 15th, or until venue capacity is reached): <a href="https://forms.gle/nupbsiwP8RC9EhfT6">register here</a>  ###
-
-### Abstract submission (open July 1st - August 15th): <a href="https://forms.gle/EaevDiKQH7obWmWq7">submit your asbtract here </a> ###
-
-Both conference registration  and abstract submission will open on the 1st of July. Abstract submission will close on the 15th of August. Registration will close when the venue capacity is reached.
 
 The conference venue has limited capacity so early registration will be essential. If you register to attend in person but later fail to attend without cancelling, you may be excluded from the next round of ASAB grants. We will contact all registered attendees in advance of the meeting to confirm planned attendance. 
 
