@@ -5,7 +5,9 @@ layout: single
 author_profile: true
 share: true
 ---
-### Registration and abstract submission closed on 15th August 2026. We will email all registrants in due course to re-confirm their in-person attendance. After this, any spare places will be offered to individuals on the waitlist.
+### Registration for the PSGB conference day (10th December) and for online attendance of the ASAB conference days is open here: <a href= "https://docs.google.com/forms/d/e/1FAIpQLScQdbvscxbyvevDmi9bodDNU4DkyH7u1PsQRJwsE3Tmm2gMnw/viewform?usp=dialog"> PSGB registration </a> 
+
+### Abstract submission closed on 15th August 2026. We will email all registrants in due course to re-confirm their in-person attendance. After this, any spare places will be offered to individuals on the waitlist.
 
 
 The conference venue has limited capacity so early registration will be essential. If you register to attend in person but later fail to attend without cancelling, you may be excluded from the next round of ASAB grants. We will contact all registered attendees in advance of the meeting to confirm planned attendance. 
