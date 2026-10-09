@@ -2,7 +2,7 @@ main:
   - title: "Home"
     url: /about/
 
-  - title: "Talk schedule"
+  - title: "Schedule"
     url: /schedule/
 
   - title: "Plenary and Award Speakers"
