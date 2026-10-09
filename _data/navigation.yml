@@ -2,8 +2,8 @@ main:
   - title: "Home"
     url: /about/
 
-#  - title: "Schedule"
-#    url: /schedule/
+ - title: "Schedule"
+   url: /schedule/
 
   - title: "Plenary and Award Speakers"
     url: /plenaries/
