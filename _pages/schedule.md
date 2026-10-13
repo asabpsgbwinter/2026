@@ -6,7 +6,7 @@ author_profile: true
 share: true
 ---
 
-A preliminary talk programme can be downloaded [here](/2026/files/programme_A4_9.10.26.pdf) or viewed below. A list of poster presentations and an abstract book will follow soon.
+A preliminary talk programme can be downloaded [here](/2026/files/programme131026.pdf) or viewed below. A list of poster presentations and an abstract book will follow soon.
 
 <img src="/2026/images/programme_p1.png"/>
 
