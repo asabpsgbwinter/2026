@@ -8,11 +8,11 @@ share: true
 
 A preliminary talk programme can be downloaded [here](/2026/files/programme131026.pdf) or viewed below. A list of poster presentations and an abstract book will follow soon.
 
-<img src="/2026/images/programme_p1.png"/>
+<img src="/2026/images/programme131026_1.png"/>
 
-<img src="/2026/images/programme_p2.png"/>
+<img src="/2026/images/programme131026_2.png"/>
 
-<img src="/2026/images/programme_p3.png"/>
+<img src="/2026/images/programme131026_3.png"/>
 
 
 
